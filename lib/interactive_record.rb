@@ -87,8 +87,3 @@ begin
     DB[:conn].execute(sql)
   end
 end
-
-end
-
-end
-end
